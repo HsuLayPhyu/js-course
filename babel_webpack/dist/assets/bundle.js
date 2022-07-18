@@ -1,1 +1,1 @@
-(function () { const o = o => { console.log(`hello ${o}`); }; o("mario"), o("luigi"), o("shaun"); })();
+(()=>{"use strict";console.log("dom file"),document.querySelector("body");const e=[{name:"mario",premium:!0},{name:"luigi",premium:!1},{name:"yoshi",premium:!0},{name:"toad",premium:!0},{name:"peach",premium:!1}],m=(e=>e.filter((e=>e.premium)))(e);console.log(e,m),console.log("test")})();
