@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "webpack": "^5.73.0",
-    "webpack-dev-server": "^4.9.3"
-  }
-}
